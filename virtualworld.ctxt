@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=virtualworld
+comment1.params=bx\ by\ bz
+comment1.target=virtualworld(int,\ int,\ int)
+comment2.params=mil
+comment2.target=void\ DelayThread(int)
+comment3.params=
+comment3.target=void\ WorldDescription()
+comment4.params=c
+comment4.target=void\ ResetDisplay(virtualcamera)
+comment5.params=
+comment5.target=void\ ResetVolume()
+comment6.params=c
+comment6.target=void\ PrintDisplayCodes(virtualcamera)
+comment7.params=c
+comment7.target=void\ PrintDisplay(virtualcamera)
+comment8.params=
+comment8.target=void\ LoadObjectsToWorld()
+comment9.params=
+comment9.target=void\ main()
+numComments=10

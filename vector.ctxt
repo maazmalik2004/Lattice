@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=vector
+comment1.params=v1\ v2
+comment1.target=vector\ CreateVector(vertex,\ vertex)
+comment2.params=v\ x\ y\ z
+comment2.target=vector\ SetVector(vector,\ double,\ double,\ double)
+comment3.params=v
+comment3.target=void\ PrintVector(vector)
+comment4.params=v1\ v2
+comment4.target=vector\ CrossProduct(vector,\ vector)
+comment5.params=v1\ v2
+comment5.target=double\ DotProduct(vector,\ vector)
+comment6.params=v1\ v2
+comment6.target=double\ AngleBetweenVectors(vector,\ vector)
+numComments=7

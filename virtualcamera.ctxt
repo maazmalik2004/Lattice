@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=virtualcamera
+comment1.params=bx\ by
+comment1.target=virtualcamera(int,\ int)
+numComments=2

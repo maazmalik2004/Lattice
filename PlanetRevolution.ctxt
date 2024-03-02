@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PlanetRevolution
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ runPlanetRevolution()
+comment3.params=o\ center\ axisX\ axisY\ axisZ
+comment3.target=void\ rotateObjectAroundAnotherObject(object,\ object,\ double,\ double,\ double)
+comment4.params=o
+comment4.target=void\ simulateGravity(object)
+comment5.params=x\ y\ z\ axisX\ axisY\ axisZ
+comment5.target=void\ rotatePointAroundAxis(double,\ double,\ double,\ double,\ double,\ double)
+comment6.params=o\ angle
+comment6.target=void\ rotateObjectAroundZAxis(object,\ double)
+comment7.params=milliseconds
+comment7.target=void\ delay(int)
+numComments=8

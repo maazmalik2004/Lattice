@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=vertex
+comment1.params=x\ y\ z
+comment1.target=vertex\ CreateVertex(double,\ double,\ double)
+comment2.params=v\ x\ y\ z
+comment2.target=vertex\ SetVertex(vertex,\ double,\ double,\ double)
+comment3.params=v
+comment3.target=void\ PrintVertex(vertex)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

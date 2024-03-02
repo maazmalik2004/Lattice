@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=object
+comment1.params=
+comment1.target=object()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=sideLength
+comment2.target=object\ CreateCube(double)
+comment3.params=length\ width\ height
+comment3.target=object\ CreateCuboid(double,\ double,\ double)
+comment4.params=edgeLength
+comment4.target=object\ CreateTetrahedron(double)
+comment5.params=radius\ resolution
+comment5.target=object\ CreateSphere(double,\ int)
+comment6.params=
+comment6.target=void\ PrintObject()
+comment7.params=o\ x\ y\ z
+comment7.target=void\ TranslateObject(object,\ double,\ double,\ double)
+comment8.params=o\ x\ y\ z
+comment8.target=void\ TranslateOrigin(object,\ double,\ double,\ double)
+comment9.params=o\ p\ q\ r
+comment9.target=void\ RotateObject(object,\ double,\ double,\ double)
+numComments=11
