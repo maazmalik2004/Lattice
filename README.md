@@ -1,8 +1,12 @@
 ![image](https://github.com/maazmalik2004/Lattice-ASCII-based-3D-rendering/assets/128217421/c6691138-a826-46ed-a6f2-3a102f1d4bc4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mV583-0IyfI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qDrFMk8I-2Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/toLuPSYi8j4" frameborder="0" allowfullscreen></iframe>
 
-# Lattice: Java Framework for Simulating Geometric Shapes
 
-Welcome to Latticenew, a Java framework for simulating geometric shapes in a virtual world. This repository includes programs that showcase the simulation of rotating and translating tetrahedrons, cubes, planet revolutions, and falling and bouncing spheres. These simulations provide a comprehensive understanding of how objects interact with the virtual environment.
+# Lattice: Java API for Simulating Geometric Shapes
+
+Welcome to Lattice, a Java based API for simulating geometric shapes in a virtual world. This repository includes programs that showcase the simulation of rotating and translating tetrahedrons, cubes, planet revolutions, and falling and bouncing spheres. These simulations provide a comprehensive understanding of how objects interact with the virtual environment.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -31,7 +35,7 @@ Make sure you have BlueJ IDE installed on your machine.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/latticenew.git
+git clone https://github.com/maazmalik2004/Lattice.git
 ```
 
 Open BlueJ and open the project by selecting the project's root folder.
@@ -39,7 +43,7 @@ Open BlueJ and open the project by selecting the project's root folder.
 Usage
 Running the Simulations
 Open BlueJ and load the project.
-Navigate to the Latticenew package.
+Navigate to the Lattice package.
 Open the desired master program (e.g., rotatingTranslatingTetrahedron, rotatingTranslatingCube, PlanetRevolution, bouncingBall).
 Right-click on the program class and select "void main(String[] args)" to execute the simulation.
 Customizing Simulations
@@ -70,11 +74,6 @@ These programs are designed to run in the BlueJ IDE. Follow the instructions abo
 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the code or add new features. See the Contributing Guidelines for more details.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Enjoy exploring and simulating geometric shapes with Latticenew in BlueJ! If you have any questions or feedback, please don't hesitate to reach out.
 
 Happy coding!
-
-Make sure to replace `"yourusername"` in the clone command with the actual username for the GitHub repository. Additionally, if you don't have specific files like `CONTRIBUTING.md` or `LICENSE`, you may need to adjust those references accordingly.
