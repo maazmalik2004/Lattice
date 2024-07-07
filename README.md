@@ -1,19 +1,10 @@
 ![image](https://github.com/maazmalik2004/Lattice-ASCII-based-3D-rendering/assets/128217421/c6691138-a826-46ed-a6f2-3a102f1d4bc4)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mV583-0IyfI" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qDrFMk8I-2Q" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/toLuPSYi8j4" frameborder="0" allowfullscreen></iframe>
-
-### Video 1
 
 ![Watch the Video](http://img.youtube.com/vi/mV583-0IyfI/0.jpg)
 [Watch the video](https://youtu.be/mV583-0IyfI)
 
-### Video 2
-
 ![Watch the Video](http://img.youtube.com/vi/qDrFMk8I-2Q/0.jpg)
 [Watch the video](https://youtu.be/qDrFMk8I-2Q)
-
-### Video 3
 
 ![Watch the Video](http://img.youtube.com/vi/toLuPSYi8j4/0.jpg)
 [Watch the video](https://youtu.be/toLuPSYi8j4?si=SjQdg78B7JuJNi7B)
