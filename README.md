@@ -17,24 +17,6 @@
 
 Welcome to Lattice, a Java based API for simulating geometric shapes in a virtual world. This repository includes programs that showcase the simulation of rotating and translating tetrahedrons, cubes, planet revolutions, and falling and bouncing spheres. These simulations provide a comprehensive understanding of how objects interact with the virtual environment.
 
-## Table of Contents
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Running the Simulations](#running-the-simulations)
-  - [Customizing Simulations](#customizing-simulations)
-- [Program Descriptions](#program-descriptions)
-  - [Rotating and Translating Tetrahedron](#rotating-and-translating-tetrahedron)
-  - [Rotating and Translating Cube](#rotating-and-translating-cube)
-  - [Planet Revolution Simulation](#planet-revolution-simulation)
-  - [Bouncing Ball](#bouncing-ball)
-  - [Virtual World Class](#virtual-world-class)
-  - [Object Class](#object-class)
-- [Running in BlueJ](#running-in-bluej)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
 
 ### Prerequisites
