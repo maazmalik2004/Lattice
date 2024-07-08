@@ -1,11 +1,14 @@
 ![image](https://github.com/maazmalik2004/Lattice-ASCII-based-3D-rendering/assets/128217421/c6691138-a826-46ed-a6f2-3a102f1d4bc4)
 
+# Demonstration
 ![Watch the Video](http://img.youtube.com/vi/mV583-0IyfI/0.jpg)
 [Watch the video](https://youtu.be/mV583-0IyfI)
 
+# Bouncing ball
 ![Watch the Video](http://img.youtube.com/vi/qDrFMk8I-2Q/0.jpg)
 [Watch the video](https://youtu.be/qDrFMk8I-2Q)
 
+# Planetary revolution and a shuttle
 ![Watch the Video](http://img.youtube.com/vi/toLuPSYi8j4/0.jpg)
 [Watch the video](https://youtu.be/toLuPSYi8j4?si=SjQdg78B7JuJNi7B)
 
